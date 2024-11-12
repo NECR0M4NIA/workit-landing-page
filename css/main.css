@@ -83,7 +83,7 @@ span {
 .content {
     display: flex;
     justify-content: center;
-    gap: 340px;
+    gap: 128px;
     background-color: #FCF8FF;
 }
 
